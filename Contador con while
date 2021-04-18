@@ -1,0 +1,14 @@
+CONTADOR CON WHILE
+//CONTADOR DEL 1 al 100
+
+main()
+{
+    i = 0;  //empezamos dando un valor//
+    x = 1;
+    DO 
+    {
+        printf (x)
+        x++;
+    }while (x<101);
+    printf("adios");
+}
